@@ -1,6 +1,6 @@
 # YouJoin-Android
 ## 简介
-这个repo是YouJoin社交平台的Android客户端，代码由本人独立编写，功能和特点包括：
+功能和特点包括：
  - 采用Material Design设计
  - 登录注册
  - 即时聊天
@@ -9,9 +9,7 @@
  - 好友关注
  - 附近的人（采用**特征点匿名匹配算法**，服务器不了解客户端真实地理位置，保护用户隐私）
  - 支持emoji表情（原创emoji表情绘制中）
- - 插件扩展（开发中） 
-  
-项目因兴趣而生，非商业项目。目前还在开发中……  
+ - 插件扩展（开发中）  
  
 ## 运行截图
  - 欢迎页  
@@ -60,7 +58,7 @@
  - LeanCloud（上述开源项目中未包含LeanCloud SDK中的jar）
 
 ## 联系方式
-freedomzzq#tekbroaden.com
+QQ:565718255
 
 ## DESIGN-LICENSE
 Design by lianghongxue 不得以任何方式使用应用中的原创图片、图标资源，包括但不限于emoji以及引导图等。上述资源版权归YouJoin Studio所有。
